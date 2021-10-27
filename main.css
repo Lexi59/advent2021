@@ -1,0 +1,18 @@
+.btn{
+    width: 17%;
+    margin: 1%;
+    font-size: 160%;
+    background-color: white;
+    color: black;
+}
+body{
+    background-color: blue;
+}
+h1{
+    color: white;
+}
+a.disabled{
+    pointer-events: none;
+    cursor: default;
+    background-color: gray;
+}
