@@ -62,61 +62,61 @@ else if (day == 2){
     displaySimonSays();
 }
 else if(day == 3){
-    addImage('day3.png', 50);
+    addImage('day3.PNG', 50);
 }
 else if(day == 4){
-    addImage('day4.png',50);
+    addImage('day4.PNG',50);
 }
 else if(day == 5){
-    addImage('day5.png',70);
+    addImage('day5.PNG',70);
 }
 else if(day == 6){
-    addImage('day6.png',70);
+    addImage('day6.PNG',70);
 }
 else if(day == 7){
-    addImage('day7.png',70);
+    addImage('day7.PNG',70);
 }
 else if(day == 8){
     addImage('day8.png',70);
 }
 else if(day == 9){
-    addImage('day9.png',70);
+    addImage('day9.PNG',70);
 }
 else if(day == 10){
     addImage('day10.png',70);
 }
 else if(day == 11){
-    addImage('day11.png',40);
+    addImage('day11.PNG',40);
 }
 else if(day == 12){
-    addImage('day12.png',70);
+    addImage('day12.PNG',70);
 }
 else if(day == 13){
-    addImage('day13.png',70);
+    addImage('day13.PNG',70);
 }
 else if(day == 14){
-    addImage('day14.png',70);
+    addImage('day14.PNG',70);
 }
 else if(day == 15){
-    addImage('day15.png',70);
+    addImage('day15.PNG',70);
 }
 else if(day == 16){
-    addImage('day16.png',70);
+    addImage('day16.PNG',70);
 }
 else if(day == 17){
-    addImage('day17.png',40);
+    addImage('day17.PNG',40);
 }
 else if(day == 18){
-    addImage('day18.png',70);
+    addImage('day18.PNG',70);
 }
 else if(day == 19){
-    addImage('day19.png',50);
+    addImage('day19.PNG',50);
 }
 else if(day == 20){
-    addImage('day20.png',20);
+    addImage('day20.PNG',20);
 }
 else if(day == 21){
-    addImage('day21.png',70);
+    addImage('day21.PNG',70);
 }
 else if (day == 22){
     var p1 = document.createElement('h1');
@@ -178,10 +178,10 @@ else if(day == 23){
     puzzleDiv.appendChild(br);
 }
 else if (day == 24){
-    addImage('day24.png',70);
+    addImage('day24.PNG',70);
 }
 else if (day == 25){
-    addImage('day25.png', 30);
+    addImage('day25.PNG', 30);
 }
 
 
